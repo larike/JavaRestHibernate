@@ -1,2 +1,2 @@
 # JavaRestHibernate
-Project using spring boot, REST and hibernate for Postgre db actions
+Bookstore project with spring boot, REST, hibernate, tested with Postgre db
